@@ -1,0 +1,16 @@
+RewriteEngine On
+
+RewriteRule ^sakums/?$ index.html [NC,L]
+RewriteRule ^par_mums/?$ about.html [NC,L]
+RewriteRule ^produkti/?$ products.html [NC,L]
+RewriteRule ^serviss/?$ service.html [NC,L]
+RewriteRule ^kontakti/?$ contacts.php [NC,L]
+RewriteRule ^udens_parbaude/?$ udens-parbaude.php [NC,L]
+RewriteRule ^te_ir_darbs/?$ job.php [NC,L]
+RewriteRule ^sakums/?$ sakums/ [NC,L]
+RewriteRule ^par_mums/?$ par_mums/ [NC,L]
+RewriteRule ^produkti/?$ produkti/ [NC,L]
+RewriteRule ^serviss/?$ serviss/ [NC,L]
+RewriteRule ^kontakti/?$ kontakti/ [NC,L]
+RewriteRule ^udens_parbaude/?$ udens_parbaude/ [NC,L]
+RewriteRule ^te_ir_darbs/?$ te_ir_darbs/ [NC,L]
