@@ -4976,7 +4976,7 @@ a.badge:focus {
   margin-bottom: 30px;
   height: 320px;
   color: inherit;
-  background-image: url(./images/header-5.jpg);
+  background-image: url(../images/header-5.jpg);
   background-position: center;
 }
 .jumbotron h1,
